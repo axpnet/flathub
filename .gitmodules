@@ -1,0 +1,3 @@
+[submodule "com.aeroftp.app/shared-modules"]
+	path = com.aeroftp.app/shared-modules
+	url = https://github.com/flathub/shared-modules.git
